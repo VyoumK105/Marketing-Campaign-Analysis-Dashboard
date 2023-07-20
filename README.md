@@ -1,4 +1,4 @@
-# Marketing Campaign Analysis Dashboard
+# Borrower Demographics Analysis Dashboard
 
 Data Source used - https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
 
